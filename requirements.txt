@@ -1,0 +1,7 @@
+pandas
+openai
+openpyxl
+streamlit
+
+#to import above packages use below command
+#pip install -r requirements.txt
